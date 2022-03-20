@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bezerk-6
+- 👋 Hi, I’m @Jaiden
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on ...
